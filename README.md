@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunnyKumar49
 - 👀 I’m interested in analyst field and like all profiles for analysis
-- 🌱 I’m currently learning SQL,Python,Tableu and Testing
-- 💞️ I’m looking to collaborate on full-time job
+- 🌱 I’m currently learning new techs for analyst role
+- 💞️ I’m looking to collaborate on full-time analyst job
 - 📫 How to reach me sunnykt49@gmail.com, sunnyt49@icloud.com
 
 <!---
